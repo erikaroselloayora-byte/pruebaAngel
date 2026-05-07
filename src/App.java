@@ -4,6 +4,6 @@ public class App {
 
         //cambios realizados por germán
 
-        System.out.println("Ejercicio 7");
+     System.out.println("Ejercicio 7");
     }
 }
