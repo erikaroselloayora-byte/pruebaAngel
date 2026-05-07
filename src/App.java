@@ -3,5 +3,7 @@ public class App {
         System.out.println("Ángel");
 
         //cambios realizados por germán
+
+        System.out.println("Ejercicio 7");
     }
 }
